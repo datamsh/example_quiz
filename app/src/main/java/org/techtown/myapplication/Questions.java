@@ -16,7 +16,7 @@ public class Questions {
 
     private String mChoices[][] ={
             {"Mercury", "Venus", "Mars", "Saturn"},
-            {"Jupiter", "Venus", "Mars", "Saturn"},
+            {"Jupiter", "Venus", "Mars", "Jupiter"},
             {"Earth", "Venus", "Mars", "Saturn"},
             {"Mercury", "Jupiter", "Mars", "Saturn"},
             {"Mercury", "Venus", "Mars", "Jupiter"},
